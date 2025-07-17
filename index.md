@@ -35,4 +35,11 @@ Just upload your image, click run and download your upsampled new image.
 
 Work in progress. I need to figure out how to run inference fast and without costing me a rent.
 
+
+
+
+
+
+***
+
 Fully open source code on Github. AI code will also be given. (Very probably a fork of SOTA models on the upsampling benchmark with a few personal tweaks).
