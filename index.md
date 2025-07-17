@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Raphael's Models
+image: /images/android-chrome-512x512.png
 ---
 
 # Image Upscaler
