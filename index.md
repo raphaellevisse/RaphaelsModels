@@ -6,7 +6,9 @@ title: Raphael's Models
 # Image Upscaler
 
 
-Let's stop with sign ups or I don't know what. Free, no quota or I don't know what. AI needs to be for the people and not impossible to access through 1 billion terminal line instructions and docker installs on Github.
+Let's stop it with sign ups or ads. Free, no quota, no suspicious downloads. AI needs to be for the people and not impossible to access through 1 billion terminal line instructions and docker installs on Github. Or another way to get your privacy.
+
+This website is to give _easy_ access to state of the art quality. The easiest one is upsampling (2x-ing resolution). Just upload your image, click run and download your new image.
 
 ***
 
