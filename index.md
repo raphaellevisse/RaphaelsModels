@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Raphael's Models
-image: /images/android-chrome-512x512.png
 ---
 
 # Image Upscaler
@@ -44,3 +43,5 @@ Work in progress. I need to figure out how to run inference fast and without cos
 ***
 
 Fully open source code on Github. AI code will also be given. (Very probably a fork of SOTA models on the upsampling benchmark with a few personal tweaks).
+
+![Raphael's Models](images/raphaels_models.png)
