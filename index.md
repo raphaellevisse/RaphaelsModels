@@ -1,11 +1,14 @@
 ---
 layout: default
-title: Image Upscaler
+title: Raphael's Models
 ---
 
-# Welcome to My Image Upscaler
+# Image Upscaler
 
-Upload your image below and get started.
+
+Let's stop with sign ups or I don't know what. Free, no quota or I don't know what. AI needs to be for the people and not impossible to access through 1 billion terminal line instructions and docker installs on Github.
+
+***
 
 <form id="uploadForm">
   <input type="file" id="upload" accept="image/*"><br><br>
@@ -20,3 +23,8 @@ Upload your image below and get started.
     }
   });
 </script>
+
+
+***
+
+Work in progress. I need to figure out how to run inference fast and without costing me a rent.
