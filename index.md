@@ -12,9 +12,9 @@ AI needs to be for the people and not impossible to access through 1 billion ter
 
 This website is to give _easy_ access to state of the art quality.
 
-Just upload your image, click run and download your upsampled new image.
-
 ***
+
+Just upload your image, click run and download your upsampled new image.
 
 <form id="uploadForm">
   <input type="file" id="upload" accept="image/*"><br><br>
